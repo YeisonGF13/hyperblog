@@ -1,5 +1,5 @@
 body {
-
+    background-color: #1e1f24;
     text-align: center;
     font-family: "Courier";
     color: #333;
@@ -39,4 +39,16 @@ margin: 0 auto;
     padding: 0 0 0 1em;
     font-weight: normal;
     font-size: 0.8em;
+}
+
+#post {
+
+    background: white;
+    padding: 1em;
+}
+
+#cabecera #logo {
+
+    width: 23px;
+    vertical-align: middle;
 }
