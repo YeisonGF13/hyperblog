@@ -11,3 +11,5 @@ Soy una persona muy alta
 Hoy hableremos de mi vida y obra maestr
 
 Soy una persona bastante alta
+
+EStoy contribuyendo al proyecto despues de que me quitaran permisos
